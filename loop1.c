@@ -8,5 +8,6 @@ int main() {
        count++;
     i++;}
     printf("no.of such numbers= %d\n", count);
+    printf("This file name is loop1.c\n");
 
 }
