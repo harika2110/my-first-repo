@@ -17,4 +17,5 @@ int main() {
     }
    
 printf("the gcd of x and y is: %d\n", gcd);
+printf("Harika has added this line just to check if she could do it"); 
 }
